@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BackgroundRemovalDemo/Scripts/Rain.cs">
+    <Files>
+      <File FileName="Assets/BackgroundRemovalDemo/Scripts/Rain.cs" Line="13" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kaibisuichao(4 scenes)1-12" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Packages" selected="True" />
+              <Node name="Assets" expanded="True">
+                <Node name="BackgroundRemovalDemo" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42c64f60-6bab-42af-b94e-ded911de7a91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
